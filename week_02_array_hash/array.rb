@@ -7,4 +7,8 @@ teams =
 
 
 
-print teams.index("Tigers")
+
+def count_team
+  count = count_team(teams)
+  assert_equal(4, count)
+end
